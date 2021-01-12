@@ -1,0 +1,13 @@
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\obj\Debug\netcoreapp3.1\AulaDecoratorPattern.csprojAssemblyReference.cache
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\obj\Debug\netcoreapp3.1\AulaDecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\obj\Debug\netcoreapp3.1\AulaDecoratorPattern.AssemblyInfo.cs
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\obj\Debug\netcoreapp3.1\AulaDecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\bin\Debug\netcoreapp3.1\AulaDecoratorPattern.exe
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\bin\Debug\netcoreapp3.1\AulaDecoratorPattern.deps.json
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\bin\Debug\netcoreapp3.1\AulaDecoratorPattern.runtimeconfig.json
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\bin\Debug\netcoreapp3.1\AulaDecoratorPattern.runtimeconfig.dev.json
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\bin\Debug\netcoreapp3.1\AulaDecoratorPattern.dll
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\bin\Debug\netcoreapp3.1\AulaDecoratorPattern.pdb
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\obj\Debug\netcoreapp3.1\AulaDecoratorPattern.dll
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\obj\Debug\netcoreapp3.1\AulaDecoratorPattern.pdb
+C:\Users\ab1214210\Documents\AulaDecoratorPattern\AulaDecoratorPattern\obj\Debug\netcoreapp3.1\AulaDecoratorPattern.genruntimeconfig.cache
